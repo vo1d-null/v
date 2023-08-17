@@ -1,0 +1,16 @@
+<style>
+              .iframeContainer {
+                position: relative;
+                width: 100%;
+                height: 1700px; /* Adjusting the height as needed */
+                overflow: hidden; /* Ensuring that the iframe content doesn't overflow */
+              }
+
+              .iframeContent {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+              }
+        </style>
