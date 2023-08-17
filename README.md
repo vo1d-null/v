@@ -1,4 +1,4 @@
-# Portfolio Website Project - README
+# vo1d.null's personal and portfolio website
 
 Welcome to the repository for my personal website project. This website showcases my portfolio, features an online shop, and provides information about me and my work.
 It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [https://vo1d-null.github.io/vo1d/](https://vo1d-null.github.io/vo1d/) thanks to GitHub Pages.
@@ -30,12 +30,12 @@ To run this project locally , follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/vo1d-null/vo1d.git
+   git clone https://github.com/vo1d-null/v.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd vo1d
+   cd v
    ```
 
 3. **Open in Browser:**
@@ -48,7 +48,7 @@ Check out the "Bushido Code Apparel" section of the website to explore the onlin
 
 ## Live Website
 
-Explore the live version of the website [here](https://vo1d-null.github.io/vo1d/). Experience the interactive design, portfolio, and online shop firsthand.
+Explore the live version of the website [here](https://vo1d-null.github.io/v/). Experience the interactive design, portfolio, and online shop firsthand.
 
 ## Contact
 
