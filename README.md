@@ -1,7 +1,7 @@
 # vo1d.null's personal and portfolio website
 
 Welcome to the repository for my personal website project. This website showcases my portfolio, features an online shop, and provides information about me and my work.
-It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [https://vo1d-null.github.io/vo1d/](https://vo1d-null.github.io/vo1d/) thanks to GitHub Pages.
+It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [https://vo1d-null.github.io/vo1d/](https://vo1d-null.github.io/v/) thanks to GitHub Pages.
 
 ## Features
 
